@@ -2,3 +2,16 @@ Write a program which accepts an Input of 10 numbers; another input as 11th numb
 
 Implement ifconfig
 
+	1) Implement malloc() and free()
+	2) How to convert BST to the doubly linked list?
+	3) How to find the inorder predecessor of Binary Tree Traversal (BST)?
+	4) How to add a pointer to the nodes of BT so that they will point to their right sibling?
+	5) Delete a node from Binary Search tree. 
+	6) Packet path and brush about the projects. 
+	7) Implement circular linked lists.  (done)
+	8) Level order traversal of binary tree. 
+	9) Spiral Level order traversal of binary tree. 
+	10) https://www.interviewbit.com/courses/programming/
+           code  bit manipulation, math
+	Code for graph related problems BFS, DFS etc. 
+Read through programs for binary trees, linked lists, stacks and queues. 
